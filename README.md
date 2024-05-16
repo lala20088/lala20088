@@ -6,10 +6,10 @@
  - estou me desenvolvendo na linguagem javaScript
  - utilizo esse espaço para organizar e compartilhar meus projetos desenvolvidos
 
- ### voçe quer entrar em contato comigo 📧
+ ### voçe quer entrar em contato comigo 📫
 
  00001207637269sp@al.educacao.sp.gov.br
 
  @laly723ll
  
-![](https://media1.tenor.com/m/sLIuJuqBfSYAAAAd/luna-cat-crunchy-cat.gif)
+![image](https://github.com/lala20088/lala20088/assets/169789169/dda2cb8e-1f35-4267-bcc5-fdf19b13e6f7)
